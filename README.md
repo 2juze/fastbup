@@ -1,2 +1,1 @@
-# fastbup
-Fast backup minecraft server
+Простенький скрипт который будет делать резервное копирование
